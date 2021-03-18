@@ -8,7 +8,7 @@ A Python Script to find admin panel of any site try at your own risk.
 !! I am not responsible for your illegal activities. !!
 
 
-Steps : (Windows/Termux)
+# Steps : (Windows/Termux)
 
   1] apt-get update    {Termux : a)pkg install apt b) apt-get update }
   
@@ -20,21 +20,21 @@ Steps : (Windows/Termux)
 
 
 
-[+] Make sure you've used protocols {http://} or {https://}
+# [+] Make sure you've used protocols {http://} or {https://}
 
   eg : http://www.example.com/
   
   eg : https://www.example.com/
 
 
-[+] Make sure you've used [/] at the end of the site.
+# [+] Make sure you've used [/] at the end of the site.
 
   eg : http://www.xyz.com/
 
 
 Wait for the GREEN light.............
 
-####### the ADMIN PAGE it will be in green color.
+# ###### the ADMIN PAGE it will be in green color.
 
 
-That's all .....
+# That's all .....
